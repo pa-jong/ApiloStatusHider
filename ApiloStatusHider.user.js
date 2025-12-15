@@ -5,9 +5,9 @@
 // @description  Ukrywa panel statusów i panel filtrów poprzez display:none
 // @author       Pa-Jong
 // @match        https://elektrone.apilo.com/*
-// @require      https://pa-jong.github.io/ApiloStatusBar/ApiloStatusHider.user.js
-// @updateURL    https://pa-jong.github.io/ApiloStatusBar/update.json
-// @downloadURL  https://pa-jong.github.io/ApiloStatusBar/ApiloStatusHider.user.js
+// @require      https://pa-jong.github.io/ApiloStatusHider/ApiloStatusHider.user.js
+// @updateURL    https://pa-jong.github.io/ApiloStatusHider/update.json
+// @downloadURL  https://pa-jong.github.io/ApiloStatusHider/ApiloStatusHider.user.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
